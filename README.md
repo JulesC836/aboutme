@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cesash01
 - 👀 I’m interested in Web development, networking, python 
-- 🌱 I’m currently learning python, PHP, JavaScript, mysql
+- 🌱 I’m currently learning python and django ,Flutter and java
 - 💞️ I’m looking to collaborate on python or Web site project 
 - 📫 Reach me on télégram:https://t.me/Ces072 
 
