@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aether
 - 👀 I’m interested in Web and mobile development,data science
-- 🌱 I’m currently learning python/django ,Flutter and java
-- 💞️ I’m looking to collaborate on python or Web site project 
+- 🌱 I’m currently learning django@python , Laravel@php Flutter and java
+- 💞️ I’m looking to collaborate on python or Web app project 
 - 📫 Reach me on télégram:https://t.me/Ces072 
 
 <!---
