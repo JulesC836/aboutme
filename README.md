@@ -3,8 +3,8 @@
 
 ### 🧩 Mobile Development — Web Development — Data Science
 
-[![My Skills](https://skillicons.dev/icons?i=tailwindcss,js,php,python,java,dart&theme=dark)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=angular,laravel,django,spring_boot,flutter&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,js,php,python,java,dart,mysql&theme=dark)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=tailwindcss,angular,laravel,django,spring,flutter&theme=dark)](https://skillicons.dev)
 
 - 📫 Reach me on télégram:https://t.me/Ces072 
 <!---
