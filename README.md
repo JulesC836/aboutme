@@ -1,7 +1,11 @@
 **@Aether**
--#Mobile dev -- #Web dev -- #Data science
-[![My Skills](https://skillicons.dev/icons?i=tailwindcss,js,php,python,java,dart&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=angular,laravel,,django,spring-boot,flutter&theme=dark)](https://skillicons.dev)
+# 💻 Tech Stack Overview
+
+### 🧩 Mobile Development — Web Development — Data Science
+
+[![My Skills](https://skillicons.dev/icons?i=tailwindcss,js,php,python,java,dart&theme=dark)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=angular,laravel,django,springboot,flutter&theme=dark)](https://skillicons.dev)
+
 - 📫 Reach me on télégram:https://t.me/Ces072 
 <!---
 Cesash01/Cesash01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
