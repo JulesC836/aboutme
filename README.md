@@ -1,10 +1,10 @@
-**@Aether**
+# **@Aether**
 # 💻 Tech Stack Overview
 
 ### 🧩 Mobile Development — Web Development — Data Science
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,js,php,python,java,dart,mysql&theme=dark)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=tailwindcss,angular,laravel,django,spring,flutter&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,js,php,python,java,dart,mysql&theme=dark)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=vscode,angular,laravel,django,spring,flutter,tailwindcss&theme=dark)](https://skillicons.dev)
 
 - 📫 Reach me on télégram:https://t.me/Ces072 
 <!---
