@@ -1,4 +1,4 @@
-# 👋 Salut, je suis **@Aether**
+# 👋 Jules ILBOUDO | **@Aether**
 
 > Développeur Full-Stack passionné par la création d'applications mobiles et web innovantes
 
