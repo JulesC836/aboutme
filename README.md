@@ -21,6 +21,8 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,redis,vscode,arch,tailwindcss,docker,postman&theme=dark)](https://skillicons.dev)
 
 ## 📊 Statistiques GitHub
+![Top Languages Card](https://github-readme-stats.vercel.app)
+
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=JulesC836&show_icons=true&theme=dark&hide_border=true)
 
