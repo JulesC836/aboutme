@@ -7,7 +7,6 @@
 - 🔭 Je travaille actuellement sur des projets **Flutter** et **Springboot**
 - 🌱 J'apprends constamment de nouvelles technologies
 - 💡 Passionné par l'architecture logicielle et les bonnes pratiques
-- 📱 Spécialisé dans le développement mobile et web
 
 ## 💻 Stack Technique
 
@@ -20,18 +19,5 @@
 ### Outils
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,redis,vscode,arch,tailwindcss,docker,postman&theme=dark)](https://skillicons.dev)
 
-## 📊 Statistiques GitHub
-![Top Languages Card](https://github-readme-stats.vercel.app)
 
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=JulesC836&show_icons=true&theme=dark&hide_border=true)
-
-## 📫 Me contacter
-- 📧 Email: [beninwende07@gmail.com]
-<!--
-- 💼 LinkedIn: [Votre profil LinkedIn]
-- 🌐 Portfolio: [votre-portfolio.com]
---->
----
-
-⭐ N'hésitez pas à explorer mes repositories et à me contacter pour collaborer !
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulesC836&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
