@@ -30,12 +30,12 @@ src="https://img.shields.io/twitter/follow/j_ilboudo?logo=twitter&style=for-the-
   <tr>
     <td rowspan="2" align="left" valign="top">
       <a href="https://github.com/JulesC836">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulesC836&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" height="400px" />
+        <img src="https://https://github-readme-stats-seven-pi-20.vercel.app//api/top-langs/?username=JulesC836&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" height="400px" />
       </a>
     </td>
     <td align="left" valign="top">
       <a href="http://www.github.com/JulesC836">
-        <img src="https://github-readme-stats.vercel.app/api?username=JulesC836&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true" alt="JulesC836's GitHub stats" height="195px" />
+        <img src="https://github-readme-stats-seven-pi-20.vercel.app//api?username=JulesC836&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true" alt="JulesC836's GitHub stats" height="195px" />
       </a>
     </td>
   </tr>
